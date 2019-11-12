@@ -344,3 +344,27 @@ body {
 	color: #999999;
 	font-size: 15px;
 }
+
+/*Mobile Device*/
+@media (min-width: 0px) and (max-width: 500px){
+
+}
+
+/*Small Device*/
+
+@media (min-width: 500.01px) and (max-width: 768px){
+
+}
+
+/*Medium Device*/
+
+@media (min-width: 768.01px) and (max-width: 1140px){
+
+}
+
+/*Large Device*/
+
+@media (min-width: 1200.01px){
+
+}
+
