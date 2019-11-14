@@ -28,8 +28,19 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	padding: 129px 0px;*/
+/* 	padding: 129px 0px; */
+	padding-top: 8em;
 }
+
+.icon-2 {
+	
+    color: white;
+    font-size: 40px;
+    margin: 10% 48%;
+    display: inline-block;
+   
+}
+
 
 .slider-text{
 	text-align: center;
