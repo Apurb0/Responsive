@@ -36,7 +36,7 @@ body {
 	
     color: white;
     font-size: 40px;
-    margin: 10% 48%;
+    margin: 2% 48%;
     display: inline-block;
    
 }
@@ -63,15 +63,19 @@ body {
 	margin-top: 40px;
 }
 
-.slider-text a{
-	color:#fff;
-	font-size: 18px;
-	border:1px solid #15a4fa;
-	text-decoration: none;
-	padding:10px 25px;
-	display: inline-block;
-	margin-top: 50px;
-}
+.slider-area button{
+
+    padding: 12px 30px;
+    color: #ffff;
+    background: transparent;
+    border: 1px solid #15a4fa;
+    border-radius: 5px;
+    margin: 50px auto;
+    display: block;
+    transition: .8s ease;
+
+
+ }
 
 
 .featured-area{
